@@ -7,7 +7,7 @@ export default function ManageSection() {
                     <p className="text-[#717171] text-base font-normal">Who is Nextcent suitable for?
                     </p>
                 </div>
-                <div className="flex flex-row justify-around">
+                <div className="flex flex-col gap-5 lg:flex-row justify-around">
                     <div className="flex flex-col items-center justify-center gap-10">
                         <div className="relative z-10">
                             <div className="absolute w-full h-full bg-[#E8F5E9] z-0 left-6 top-3 rounded-tl-3xl rounded-tr-md rounded-bl-md rounded-br-xl" />
